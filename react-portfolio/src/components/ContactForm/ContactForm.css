@@ -1,0 +1,44 @@
+/* Div Wrapper */
+.contactForm {
+    background-color: rgb(51, 51, 51);
+    color: white;
+}
+
+h2 {
+    font-family: 'Pacifico', cursive;
+}
+
+label {
+    font-family: 'Alegreya Sans SC', sans-serif;
+}
+
+/* Social Media Icons */
+.githubIcon,
+.linkedInIcon,
+.instagramIcon,
+.twitterIcon {
+    width: 30px;
+    max-width: 40px;
+    background-image: url("../images/github.png");
+    height: 30px;
+    float: right;
+    margin: 0 20px 8px 0;
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 28px 28px;
+}
+
+.linkedInIcon {
+    background-image: url("../images/linkedin.png");
+    margin: 0 20px 8px 0;
+}
+
+.instagramIcon {
+    background-image: url("../images/instagram.png");
+    margin: 0 20px 8px 0;
+}
+
+.twitterIcon {
+    background-image: url("../images/twitter.png");
+    margin: 0 20px 8px 0;
+}
